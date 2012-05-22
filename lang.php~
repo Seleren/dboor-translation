@@ -221,7 +221,7 @@ define( "item_title_34", item_34 );
 define( "item_curprod_34", "Current stability" );
 define( "item_nextprod_34", "stability at level" );
 define( "item_unit_34", "%" );
-define( "item_desc_34", "The stonemason is an expert at manipulating stone. The higher the level, the stronger each of the buildings in your village will be.
+define( "item_desc_34", "The stonemason is an expert at manipulating stone. The higher the level, the stronger each of the buildings in your village.
 
 The stonemason can only be built in the capital." );
 define( "item_35", "Brewery" );
