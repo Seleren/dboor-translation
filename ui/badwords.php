@@ -7,7 +7,7 @@
 /*                   */
 /*********************/
 
-define( "LANGUI_BADWORDS_T1", "Department filter Alkalamat" );
+define( "LANGUI_BADWORDS_T1", "Bad words filter" );
 define( "LANGUI_BADWORDS_T2", "Add words" );
 define( "LANGUI_BADWORDS_T3", "Number" );
 define( "LANGUI_BADWORDS_T4", "Word" );

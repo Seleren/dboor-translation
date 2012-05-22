@@ -7,15 +7,15 @@
 /*                   */
 /*********************/
 
-define( "LANGUI_ACTIVATE_T1", "You did not receive a letter in the mail?" );
-define( "LANGUI_ACTIVATE_T2", "To play travianZ you will need to add a valid e-mail address. There are exceptional cases may not receive the activation mail" );
+define( "LANGUI_ACTIVATE_T1", "Didn't recieve an email?" );
+define( "LANGUI_ACTIVATE_T2", "To play on Nuclei x32 you will need to add a valid e-mail address. " );
 define( "LANGUI_ACTIVATE_T3", "The causes can be the following" );
-define( "LANGUI_ACTIVATE_T4", "Typo in the e-mail address" );
+define( "LANGUI_ACTIVATE_T4", "Type in the e-mail address" );
 define( "LANGUI_ACTIVATE_T5", "Inbox full" );
-define( "LANGUI_ACTIVATE_T6", "E-mail is not true: for example, not only are aol.de @ aol.com @" );
-define( "LANGUI_ACTIVATE_T7", "You may find the message in the basket of unwanted mail (junk mails)" );
-define( "LANGUI_ACTIVATE_T8", "You can cancel your registration and use of <u> a different email address </ u>. And will send you a new activation code" );
-define( "LANGUI_ACTIVATE_T9", "User Name" );
+define( "LANGUI_ACTIVATE_T6", "Email is not right." );
+define( "LANGUI_ACTIVATE_T7", "You may find the message in SPAM folder." );
+define( "LANGUI_ACTIVATE_T8", "You can cancel your registration and use <u> a different email address </ u>. And we'll send you a new activation code" );
+define( "LANGUI_ACTIVATE_T9", "Username" );
 define( "LANGUI_ACTIVATE_T10", "Password" );
 define( "LANGUI_ACTIVATE_T11", "Delete" );
 define( "LANGUI_ACTIVATE_T12", "Member has been deleted successfully. You can create a new account" );

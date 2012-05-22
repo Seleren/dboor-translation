@@ -7,9 +7,9 @@
 /*                   */
 /*********************/
 
-define( "LANGUI_CUSTBU_CRANNYEXTRA", "the overall size of the resources hidden" );
-define( "LANGUI_CUSTBU_M_DROP", "demolition of the building" );
-define( "LANGUI_CUSTBU_M_DROPDESC", "if you no longer need to build, you can make is to demolish the building of the builders" );
+define( "LANGUI_CUSTBU_CRANNYEXTRA", "Ammount of hidden resources" );
+define( "LANGUI_CUSTBU_M_DROP", "Building demolition" );
+define( "LANGUI_CUSTBU_M_DROPDESC", "If you no longer need a building, you can order the demolition of the building." );
 define( "LANGUI_CUSTBU_M_CANCEL", "cancel the demolition" );
 define( "LANGUI_CUSTBU_M_EMPTY", "empty" );
 define( "LANGUI_CUSTBU_M_DROPBTN", "destruction" );
@@ -31,8 +31,8 @@ define( "LANGUI_CUSTBU_TRP_t15", "orders to complete troops training in this vil
 define( "LANGUI_CUSTBU_TRP_t16", "orders to complete troops training immediately" );
 define( "LANGUI_CUSTBU_TRP_t17", "Costs" );
 define( "LANGUI_CUSTBU_TRP_t18", "gold" );
-define( "LANGUI_CUSTBU_TRP_t19", "troops was sent to your village" );
-define( "LANGUI_CUSTBU_TRP_t20", "you have not enough gold" );
+define( "LANGUI_CUSTBU_TRP_t19", "troops were sent to your village" );
+define( "LANGUI_CUSTBU_TRP_t20", "you don't have enough gold" );
 define( "LANGUI_CUSTBU_EMB_t1", "Alliance" );
 define( "LANGUI_CUSTBU_EMB_t2", "code" );
 define( "LANGUI_CUSTBU_EMB_t3", "the Alliance" );
@@ -43,8 +43,8 @@ define( "LANGUI_CUSTBU_EMB_t7", "name" );
 define( "LANGUI_CUSTBU_EMB_t8", "type the name" );
 define( "LANGUI_CUSTBU_EMB_t9", "completely" );
 define( "LANGUI_CUSTBU_EMB_t10", "join the alliance" );
-define( "LANGUI_CUSTBU_EMB_t11", "refuse" );
-define( "LANGUI_CUSTBU_EMB_t12", "accept" );
+define( "LANGUI_CUSTBU_EMB_t11", "Refuse" );
+define( "LANGUI_CUSTBU_EMB_t12", "Accept" );
 define( "LANGUI_CUSTBU_EMB_t13", "There are no invitations yet" );
 define( "LANGUI_CUSTBU_EMB_t14", "This alliance don't have spaces" );
 define( "LANGUI_CUSTBU_TWH_t1", "municipal" );

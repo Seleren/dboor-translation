@@ -9,7 +9,7 @@
 
 define( "LANGUI_Friends_T1", "Friends" );
 define( "LANGUI_Friends_T2", "Add Friends" );
-define( "LANGUI_Friends_T3", "Friend Username" );
+define( "LANGUI_Friends_T3", "Username" );
 define( "LANGUI_Friends_T4", "Send" );
 define( "LANGUI_Friends_T5", "Friend List" );
 define( "LANGUI_Friends_T6", "ID" );
