@@ -16,11 +16,11 @@ define( "LANGUI_MSG_T6", "Recipient" );
 define( "LANGUI_MSG_T7", "Sender" );
 define( "LANGUI_MSG_T8", "Email" );
 define( "LANGUI_MSG_T9", "(new)" );
-define( "LANGUI_MSG_T10", "(not yet read)" );
+define( "LANGUI_MSG_T10", "(unread)" );
 define( "LANGUI_MSG_T11", "No messages" );
 define( "LANGUI_MSG_T12", "Delete" );
 define( "LANGUI_MSG_T13", "Address Book" );
 define( "LANGUI_MSG_T14", "Answer" );
 define( "LANGUI_MSG_T15", "Send" );
-define( "LANGUI_MSG_T16", "Closed address book" );
+define( "LANGUI_MSG_T16", "Close address book" );
 ?>
