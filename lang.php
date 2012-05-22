@@ -437,11 +437,11 @@ define( "report_result_text11", "Traders have been "."C:\\Decoder\\bin\\rm\\file
 define( "report_result_text12", "Traders have been "."C:\\Decoder\\bin\\rm\\file.php"."ly the transfer of mud" );
 define( "report_result_text13", "Traders have been "."C:\\Decoder\\bin\\rm\\file.php"."ly the transfer of iron" );
 define( "report_result_text14", "Traders have been the transfer of wheat "."C:\\Decoder\\bin\\rm\\file.php"."ly" );
-define( "report_action_text1", "send resources" );
-define( "report_action_text2", "enhances" );
-define( "report_action_text3", "attack" );
-define( "report_action_text4", "spy" );
-define( "report_p_allkilled", "No one of soldiers is not returned" );
+define( "report_action_text1", "sends resources" );
+define( "report_action_text2", "reinforces" );
+define( "report_action_text3", "attacks" );
+define( "report_action_text4", "spies" );
+define( "report_p_allkilled", "None of soldiers has returned" );
 define( "report_p_fromlevel", "Level of" );
 define( "report_p_to", "To" );
 define( "report_p_waslowered", "Been reduced" );
