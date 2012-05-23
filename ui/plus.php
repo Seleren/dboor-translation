@@ -51,6 +51,6 @@ define( "LANGUI_PLUS_T41", "Production: Iron" );
 define( "LANGUI_PLUS_T42", "Production: Wheat" );
 define( "LANGUI_PLUS_T43", "Complete construction orders and research in this village immediately. (Does not work for Palace and Residence)" );
 define( "LANGUI_PLUS_T44", "1:1 Trade with the NPC merchant" );
-define( "LANGUI_PLUS_T45", "complete the troops training" );
-define( "LANGUI_PLUS_T46", "in the current village all troops training orders are completed immediately, this feature not exists in the wonder land village" );
+define( "LANGUI_PLUS_T45", "Immediately complete troop training" );
+define( "LANGUI_PLUS_T46", "Complete all the troop training orders in the current village. This does not work in WW village and might actually be removed at any time." );
 ?>

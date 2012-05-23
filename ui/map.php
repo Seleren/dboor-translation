@@ -16,7 +16,7 @@ define( "LANGUI_MAP_T6", "North" );
 define( "LANGUI_MAP_T7", "East" );
 define( "LANGUI_MAP_T8", "South" );
 define( "LANGUI_MAP_T9", "West" );
-define( "LANGUI_MAP_T10", "large map" );
+define( "LANGUI_MAP_T10", "Large map" );
 define( "LANGUI_MAP_T11", "Owner" );
 define( "LANGUI_MAP_T12", "Population" );
 define( "LANGUI_MAP_T13", "Alliance" );

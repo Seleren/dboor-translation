@@ -7,8 +7,8 @@
 /*                   */
 /*********************/
 
-define( "LANGUI_LOGOUT_T1", "you signed out successfully!" );
-define( "LANGUI_LOGOUT_T2", "Thank you for the visit" );
-define( "LANGUI_LOGOUT_T3", "in case of multiple users to the same computer, you should delete files from your network until you clear the user name and password to "."C:\\Decoder\\bin\\rm\\file.php"."tain the confidentiality of your information" );
-define( "LANGUI_LOGOUT_T4", "»network scan of your system" );
+define( "LANGUI_LOGOUT_T1", "You were successfully signed out!" );
+define( "LANGUI_LOGOUT_T2", "Thank you for the visit, please combe back :D" );
+define( "LANGUI_LOGOUT_T3", "If this is a public computer, you should clean your cookies and remove info about your Username and Password. To do so, click the button below." );
+define( "LANGUI_LOGOUT_T4", "Delete cookies!" );
 ?>
