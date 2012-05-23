@@ -1,0 +1,36 @@
+activate
+advertising
+alliance
+alliancerole
+badwords
+build
+chat
+custbuilds
+footer			DONE
+form
+friends
+game
+guide
+help
+index			DONE
+links			DONE
+logout
+manual
+map
+msg
+over
+password
+plus
+profile
+profile.phpx ?
+register
+report
+resources
+snprofile
+statistics
+training
+v2v
+village1
+village2
+village3
+warsm
