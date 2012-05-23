@@ -7,7 +7,7 @@ build
 chat
 custbuilds
 footer			DONE
-form
+form			DONE
 friends
 game
 guide
