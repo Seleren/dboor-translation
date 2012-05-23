@@ -4,12 +4,12 @@ alliance
 alliancerole
 badwords
 build
-chat
+chat			DONE
 custbuilds
 footer			DONE
 form			DONE
 friends
-game
+game			32+
 guide
 help
 index			DONE
@@ -26,7 +26,7 @@ profile.phpx ?
 register
 report
 resources
-snprofile
+snprofile		10,13
 statistics
 training
 v2v

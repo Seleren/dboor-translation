@@ -7,28 +7,28 @@
 /*                   */
 /*********************/
 
-define( "LANGUI_GAME_ICO1", "Village Overview" );
+define( "LANGUI_GAME_ICO1", "Overview" );
 define( "LANGUI_GAME_ICO2", "Village Center" );
 define( "LANGUI_GAME_ICO3", "Map" );
 define( "LANGUI_GAME_ICO4", "Statistics" );
 define( "LANGUI_GAME_ICO5", "Reports" );
 define( "LANGUI_GAME_ICO6", "Messages" );
 define( "LANGUI_GAME_ICO7", "Gold" );
-define( "LANGUI_GAME_GOLD", "gold" );
+define( "LANGUI_GAME_GOLD", "Gold" );
 define( "LANGUI_GAME_GNAME", "Nuclei x32" );
-define( "LANGUI_GAME_MORNING", "day" );
-define( "LANGUI_GAME_AFTERNOON", "evening" );
+define( "LANGUI_GAME_MORNING", "Morning" );
+define( "LANGUI_GAME_AFTERNOON", "Afternoon" );
 define( "LANGUI_GAME_MENU1", "Home" );
-define( "LANGUI_GAME_MENU2", "Instructions" );
+define( "LANGUI_GAME_MENU2", "Manual" );
 define( "LANGUI_GAME_MENU3", "Profile" );
-define( "LANGUI_GAME_MENU4", "Log out" );
+define( "LANGUI_GAME_MENU4", "Log Out" );
 define( "LANGUI_GAME_MENU5", "Notebook" );
 define( "LANGUI_GAME_MENU6", "Links" );
 define( "LANGUI_GAME_MENU7", "Site News" );
 define( "LANGUI_GAME_MENU8", "Members News" );
 define( "LANGUI_GAME_MENU9", "Travian Plus" );
-define( "LANGUI_GAME_MENU10", "Filter Words" );
-define( "LANGUI_GAME_MENU11", "Ads" );
+define( "LANGUI_GAME_MENU10", "Word Filter" );
+define( "LANGUI_GAME_MENU11", "Advertisements" );
 define( "LANGUI_GAME_MENU12", "Chat" );
 define( "LANGUI_GAME_PLAYERDEL", "Deleted at" );
 define( "LANGUI_GAME_LMENU1", "to the Task Master" );
