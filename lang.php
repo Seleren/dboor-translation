@@ -550,7 +550,7 @@ define( "buildings_p_upg2", "Must raise the level of stored grain, first" );
 define( "buildings_p_upg3", "Must raise the level of the warehouse and granary first" );
 define( "buildings_p_notenoughres2", "Not enough resources" );
 define( "buildings_p_willenoughresat", "Enough resources in" );
-define( "buildings_p_upg_tolevel", "upgrade to level" );
+define( "buildings_p_upg_tolevel", "Upgrade to level" );
 define( "buildings_p_create_newbuild", "Construct buildings" );
 define( "buildings_p_workersbusy", "Your builders are already working" );
 define( "buildings_p_wait_buildqueue", "building loop" );

@@ -19,7 +19,7 @@ define( "LANGUI_GAME_GNAME", "Nuclei x32" );
 define( "LANGUI_GAME_MORNING", "Morning" );
 define( "LANGUI_GAME_AFTERNOON", "Afternoon" );
 define( "LANGUI_GAME_MENU1", "Home" );
-define( "LANGUI_GAME_MENU2", "Manual" );
+define( "LANGUI_GAME_MENU2", "Instructions" );
 define( "LANGUI_GAME_MENU3", "Profile" );
 define( "LANGUI_GAME_MENU4", "Log Out" );
 define( "LANGUI_GAME_MENU5", "Notebook" );
@@ -40,6 +40,6 @@ define( "LANGUI_GAME_CALCMS", "Calculated in" );
 define( "LANGUI_GAME_SRVTIME", "Server time" );
 define( "LANGUI_GAME_T1", "Forum" );
 define( "LANGUI_GAME_T2", "Home Page" );
-define( "LANGUI_GAME_T3", "&nbsp" );
+define( "LANGUI_GAME_T3", "Social Profile" );
 define( "LANGUI_GAME_T4", "Friends" );
 ?>
