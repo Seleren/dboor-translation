@@ -12,7 +12,7 @@ define( "LANGUI_STAT_T2", "Players" );
 define( "LANGUI_STAT_T3", "Alliances" );
 define( "LANGUI_STAT_T4", "Villages" );
 define( "LANGUI_STAT_T5", "Heroes" );
-define( "LANGUI_STAT_T6", "Natars" );
+define( "LANGUI_STAT_T6", "WW" );
 define( "LANGUI_STAT_T7", "General" );
 define( "LANGUI_STAT_T8", "Are you sure to delete the player?" );
 define( "LANGUI_STAT_T9", "The Largest Players" );

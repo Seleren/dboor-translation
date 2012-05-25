@@ -22,7 +22,7 @@ define( "LANGUI_VIL1_T12", "production" );
 define( "LANGUI_VIL1_T13", "per hour" );
 define( "LANGUI_VIL1_T14", "Units" );
 define( "LANGUI_VIL1_T15", "None" );
-define( "LANGUI_VIL1_T16", "construction" );
+define( "LANGUI_VIL1_T16", "Construction" );
 define( "LANGUI_VIL1_T17", "cancel" );
 define( "LANGUI_VIL1_T18", "orders to complete construction and research in this village immediately\r\nCost 2 Gold " );
 ?>
