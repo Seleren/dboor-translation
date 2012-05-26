@@ -287,7 +287,7 @@ define( "item_title_42", item_42 );
 define( "item_curprod_42", "current arrival time" );
 define( "item_nextprod_42", "arrival time in the next level" );
 define( "item_unit_42", "hour" );
-define( "item_desc_42", "you can buy mercenaries troops via gold, as building upgrade the time for arrival of the troops was decrease." );
+define( "item_desc_42", "In Warror Dealer, you can buy units with gold. As you upgrade it, units will take less time to arrive." );
 define( "troop_hero", "Hero" );
 define( "troop_1", "Legionnaire" );
 define( "troop_2", "Praetorian" );

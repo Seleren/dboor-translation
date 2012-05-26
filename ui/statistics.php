@@ -56,7 +56,7 @@ define( "LANGUI_STAT_T46", "Climbers" );
 define( "LANGUI_STAT_T47", "Robbers" );
 define( "LANGUI_STAT_T48", "Resources" );
 define( "LANGUI_STAT_T49", "Tribe" );
-define( "LANGUI_STAT_T50", "Ranks" );
+define( "LANGUI_STAT_T50", "Pop" );
 define( "LANGUI_STAT_T51", "Unban player" );
 define( "LANGUI_STAT_T52", "Ban the player" );
 ?>
