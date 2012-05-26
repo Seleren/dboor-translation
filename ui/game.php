@@ -30,7 +30,7 @@ define( "LANGUI_GAME_MENU9", "Travian Plus" );
 define( "LANGUI_GAME_MENU10", "Word Filter" );
 define( "LANGUI_GAME_MENU11", "Advertisements" );
 define( "LANGUI_GAME_MENU12", "Chat" );
-define( "LANGUI_GAME_PLAYERDEL", "Deleted at" );
+define( "LANGUI_GAME_PLAYERDEL", "Deleted in" );
 define( "LANGUI_GAME_LMENU1", "to the Task Master" );
 define( "LANGUI_GAME_LMENU2", "Villages" );
 define( "LANGUI_GAME_LMENU3", "Links" );
