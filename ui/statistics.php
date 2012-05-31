@@ -38,7 +38,7 @@ define( "LANGUI_STAT_T28", "The Most Experienced Heroes" );
 define( "LANGUI_STAT_T29", "hero" );
 define( "LANGUI_STAT_T30", "experience" );
 define( "LANGUI_STAT_T31", "Registered players" );
-define( "LANGUI_STAT_T32", "Active ingredients" );
+define( "LANGUI_STAT_T32", "Active players" );
 define( "LANGUI_STAT_T33", "Online players" );
 define( "LANGUI_STAT_T34", "Tribes" );
 define( "LANGUI_STAT_T35", "Registered" );

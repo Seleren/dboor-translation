@@ -462,7 +462,7 @@ define( "payments_paypal_description", "Payment PayPal Fast and easy" );
 define( "payments_onecard_period", "Immediately" );
 define( "payments_onecard_description", "Payment OneCard Fast and easy" );
 define( "tatar_tribe_player", "Natars" );
-define( "tatar_tribe_villages", "Natars villages" );
+define( "tatar_tribe_villages", "WW Village" );
 define( "tatar_tribe_desc", "Natars<br>===============<br><img src=\"assets/default/img/ww_start.jpg\" border=\"0\" alt=\"World Wonder\"><br>===============" );
 define( "forget_password_subject", "Forgot your password?" );
 define( "forget_password_body", "Welcome<b>%s</b><br/>\r\n<br/>\r\nNew Password:<br/>\r\nPlease make it a strong<br/>\r\n<br/>\r\n----------------------------<br/>\r\nName: %s<br/>\r\nPassword: %s<br/>\r\n----------------------------<br/>\r\n<br/>\r\nClick on this link to activate the new password:<br/>\r\n<br/>\r\n<a href=\"%s\">%s</a><br/>\r\n<br/>\r\nIf you did not request a new password, you can <br/>\r\nIgnore this message." );

@@ -23,4 +23,5 @@ define( "LANGUI_MSG_T13", "Address Book" );
 define( "LANGUI_MSG_T14", "Answer" );
 define( "LANGUI_MSG_T15", "Send" );
 define( "LANGUI_MSG_T16", "Close address book" );
+define( "LANGUI_MSG_T17", "" );
 ?>
