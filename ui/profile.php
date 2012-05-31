@@ -78,4 +78,5 @@ define( "LANGUI_PROFILE_T68", "No" );
 define( "LANGUI_PROFILE_T69", "Password confirmation" );
 define( "LANGUI_PROFILE_T70", "Reserve" );
 define( "LANGUI_PROFILE_T71", "Image" );
+define( "LANGUI_PROFILE_T72", "Social network profile" );
 ?>
