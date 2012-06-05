@@ -23,7 +23,7 @@ define( "LANGUI_RPT_T13", "Resources" );
 define( "LANGUI_RPT_T14", "Units" );
 define( "LANGUI_RPT_T15", " ... " );
 define( "LANGUI_RPT_T16", "every hour" );
-define( "LANGUI_RPT_T17", "forward" );
+define( "LANGUI_RPT_T17", "Attacker" );
 define( "LANGUI_RPT_T18", "Casualties" );
 define( "LANGUI_RPT_T19", "Merchant's capacity" );
 define( "LANGUI_RPT_T20", "information" );
